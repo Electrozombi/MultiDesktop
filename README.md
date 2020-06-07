@@ -1,6 +1,6 @@
 MultiDesktop V 1.0
 ------------------
-A windows tool that let you choose between 4 different Desktops!
+A windows systray tool that let you choose between 4 different Desktops!
 Each of the 4 desktop's can have seperate files/shortcuts/whatever on them.
 The layout of each desktop is saved and restored via ReIcon from https://www.sordum.org/8366/reicon-v1-9-restore-desktop-icon-layouts/
 
