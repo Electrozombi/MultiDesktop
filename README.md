@@ -30,3 +30,10 @@ Additional Info:
 ----------------
 To make it start with windows create a task in task planing pointing to the MultiDesktop.exe and choose when user logs on.
 
+Contact:
+--------
+ezpi@web.de
+
+System Requirements:
+--------------------
+Windows 10 Pro 32/64
